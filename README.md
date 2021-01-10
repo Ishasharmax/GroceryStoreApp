@@ -31,17 +31,16 @@ The clients finally asked us to finish getting the store map implemented. Althou
 
 ### Improved Stack of Wireframes
 
-Home/My list/Landing/Map
+#### Home/My list/Landing/Map
+![wireframe](wireframe.png)
 
 ### UI Mockups
 Mockup 1 (Isha)
-
-
-
+![mockup](mockup1.png)
+![mockup](mockup2.png)
 
 ### Site Navigation Chart (Vera)
-
-
+![chart](flowChart.png)
 
 ### List of Requirements to Implement in the First Sprint
 - Navigation
@@ -84,6 +83,8 @@ Test Requirements: User will be able to search the All Items FlatList and see if
 Description: Adding Redux functionality to store the information in our All Items FlatList and the My List FlatList, will include functionality to add and remove items from the My List FlatList
 Lead for that Feature: Josh
 Test Requirements: User will be able to view the data stored in Redux and implement the add and remove functionality for the My List FlatList
+
+![redux](redux.png)
 
 ### List of Requirements to Implement in the Fourth Sprint
 - Interior Store Map
