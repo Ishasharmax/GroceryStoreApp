@@ -2,7 +2,7 @@
 
 ## Dependencies
 
-Requires the `react-native-paper` package.
+Requires the `react-native-paper`, `react-native-maps`, & `@reduxjs/toolkit` packages.
 
 ### Design Review Report
 
