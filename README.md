@@ -1,5 +1,9 @@
 # Jiv's Groceries
 
+## Dependencies
+
+Requires the `react-native-paper` package.
+
 ### Design Review Report
 
 ### Team Members
